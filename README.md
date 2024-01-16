@@ -91,13 +91,13 @@ Looking ahead, envisioning automation and real-time monitoring for each round, t
     - Month: April to October (Season 2023)
     - Position: Midfielder, Defender, Forward, Goalkeeper
 
-### 2. Comparative Analysis per position (attack skills) [Open](https://public.tableau.com/app/profile/leo.fonseca/viz/LHL-CapstoneProject/DashboardGeneral)
+### 2. Comparative Analysis per position (attacking skills) [Open](https://public.tableau.com/app/profile/leo.fonseca/viz/LHL-CapstoneProject/DashboardGeneral)
 
 - **Filters:**
     - Team: All Canadian Premier League teams
     - Month: April to October (Season 2023)
 
-### 3. Comparative Analysis per player (attack skills) [Open](https://public.tableau.com/app/profile/leo.fonseca/viz/LHL-CapstoneProject/DashboardPlayer)
+### 3. Comparative Analysis per player (attacking skills) [Open](https://public.tableau.com/app/profile/leo.fonseca/viz/LHL-CapstoneProject/DashboardPlayer)
 
 - **Filters:**
     - Players: All Canadian Premier League players
