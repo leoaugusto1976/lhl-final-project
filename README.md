@@ -120,7 +120,7 @@ Looking ahead, envisioning automation and real-time monitoring for each round, t
 
 ### Presentation
 
-I will deliver a comprehensive PowerPoint presentation encompassing the following key elements:
+The PowerPoint presentation encompassing the following key elements:
 
 - **Inspiration:** Unveiling the motivations that sparked the creation of this project.
 - **Choices:** Detailing the strategic decisions made throughout the project, from data selection to analytical approaches.
