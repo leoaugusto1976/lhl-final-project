@@ -1,6 +1,6 @@
-# Capstone Project
-# Course: Data Science Program at [Lighthouse Labs](https://www.lighthouselabs.ca/en/data-science)
-# Project name: Data-driven insights: identifying the best soccer players by position
+# **Capstone Project**
+# **Course:** Data Science Program at [Lighthouse Labs](https://www.lighthouselabs.ca/en/data-science)
+## **Project name:** Data-driven insights: identifying the best soccer players by position
 
 ## Inspiration
 
