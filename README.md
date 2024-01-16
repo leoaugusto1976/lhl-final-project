@@ -1,5 +1,12 @@
 # Capstone Project
-# Data-driven insights: identifying the best soccer players by position
+# Course: Data Science Program at [Lighthouse Labs](https://www.lighthouselabs.ca/en/data-science)
+# Project name: Data-driven insights: identifying the best soccer players by position
+
+## Inspiration
+
+I have a deep passion for soccer and appreciate all the intricacies associated with this sport. My connection with soccer dates back to my childhood, and I derive immense joy from analyzing player performances and unraveling the sport's various nuances. What intrigues me is the fact that most websites merely present statistical numbers, and I aspire to go beyond that by creating something more visual and interactive. My goal is to provide users with the opportunity to analyze these numbers from a different perspective, fostering a deeper understanding of the game.
+
+Moreover, I firmly believe that Data Science holds a significant role in our future, and I am eager to embark on a journey into this field, leveraging my expertise in soccer statistics as a starting point.
 
 ## Introduction
 
@@ -110,6 +117,18 @@ Looking ahead, envisioning automation and real-time monitoring for each round, t
 ### Notebook
 
 - [data_analysis.ipynb](data_analysis.ipynb): This notebook encompasses all the code I implemented to generate the results for this project.
+
+### Presentation
+
+I will deliver a comprehensive PowerPoint presentation encompassing the following key elements:
+
+- **Inspiration:** Unveiling the motivations that sparked the creation of this project.
+- **Choices:** Detailing the strategic decisions made throughout the project, from data selection to analytical approaches.
+- **Process Overview:** Providing an insight into the entire process, including data extraction, cleaning, analysis, and the implementation of visual dashboards.
+- **Dashboard Results:** Showcasing the visually engaging and insightful dashboards that encapsulate the essence of player and team performances.
+- **Future Outlook:** Discussing the potential directions for future developments and enhancements to the project.
+
+[Open the presentation](Presentation.pptx)
 
 ## Future Possible Developments
 As I envision the future of this project, several exciting possibilities emerge:
