@@ -128,7 +128,7 @@ The PowerPoint presentation encompassing the following key elements:
 - **Dashboard Results:** Showcasing the visually engaging and insightful dashboards that encapsulate the essence of player and team performances.
 - **Future Outlook:** Discussing the potential directions for future developments and enhancements to the project.
 
-[Open the presentation](Presentation.pptx)
+[Download the presentation](Presentation.pptx)
 
 ## Future Possible Developments
 As I envision the future of this project, several exciting possibilities emerge:
