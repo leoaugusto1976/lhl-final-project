@@ -72,7 +72,7 @@ To ensure the accuracy of the results and avoid potential misunderstandings or e
 
 For the monthly rankings, no specific restrictions were imposed, allowing for a comprehensive evaluation of player performance.
 
-However, when determining the season rankings, a more stringent criterion was applied. Players needed to have scored a minimum of 5 goals throughout the season to be considered. Consequently, only 17 players met this criterion, ensuring a more refined assessment for the season's top performers.
+However, when determining the season rankings, a more stringent criterion was applied. Players needed to have scored a minimum of 5 goals throughout the season to be considered. Consequently, only 17 players met this criterion, ensuring a more refined assessment for the season's top performers (attack stats).
 
 <img src="final_ranking.png">
 
